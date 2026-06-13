@@ -20,6 +20,6 @@ A desk robot, inspired by Huy Vector's DIY project. Function: Move around table 
 ### Challenges
 - Programming is a big part of this project. Hence, I tried to learn the language and the library. The library was easy to learn, just the programming language that posed an issue as I'm still unfamiliar with this. 
 
-Schematic            |  Case         |  
+Case            |  Schematic         |  
 :-------------------------:|:-------------------------:|
 ![image](images/Robo_case.png)  |  ![image](images/robo_schematic.png)  | 
